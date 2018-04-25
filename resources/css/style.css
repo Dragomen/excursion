@@ -1,0 +1,45 @@
+body{
+	font-family: "Verdana", sans-serif;
+	text-align: center;
+	background-color: black;
+	color: white;
+	display: block;
+	margin: 8px;
+}
+h1{
+	font-size: 50px;
+	-webkit-margin-before: 0.67em;
+	-webkit-margin-after: 0.67em;
+	-webkit-margin-start: 0px;
+	-webkit-margin-end: 0px;
+	font-weight: bold;
+}
+p{
+	color: gray;
+	font-size: 21px;
+	-webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
+.cta{
+	color: Aquamarine;
+    font-size: 16px;
+}
+video{
+	object-fit: contain;
+}
+h2{
+	font-size: 42px;
+	-webkit-margin-before: 0.83em;
+    -webkit-margin-after: 0.83em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: bold;
+}
+.footer{
+	text-align: right;
+}
+div{
+	display: block;
+}
